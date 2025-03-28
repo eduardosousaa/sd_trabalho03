@@ -50,13 +50,14 @@ python main.py
 ## 📜 Estrutura do Projeto
 ```
 /
-├── main.py                 # Código principal do servidor e interface Tkinter
-├── images.db              # Banco de dados SQLite
-├── uploads/               # Pasta para imagens enviadas
-├── processed/             # Pasta para imagens processadas
 ├── assets/                # Pasta com capturas de tela
-├── requirements.txt       # Dependências do projeto
+├── processed/             # Pasta para imagens processadas
+├── uploads/               # Pasta para imagens enviadas
+├── images.db              # Banco de dados SQLite
+├── main.py                # Código principal do servidor e interface Tkinter
 ├── README.md              # Documentação do projeto
+├── requirements.txt       # Dependências do projeto
+├── TRABALHO 03.pdf        # Pdf do trabalho
 ```
 
 ---
